@@ -1,0 +1,6 @@
+{
+  "name": "Studio Fabíola Alves Fisioterapia e Massoterapia",
+  "description": "Site profissional do Studio Fabíola Alves - Fisioterapia, Massoterapia e Pilates Solo em Curitiba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
